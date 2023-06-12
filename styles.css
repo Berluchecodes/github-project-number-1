@@ -1,0 +1,139 @@
+.box {
+    border: 4px solid lightgray;
+    width: 100px;
+    height: 100px;
+}
+
+.box-small {
+    width: 50px;
+    height: 50px;
+    margin-left: 24px;
+}
+
+.box-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    border: 4px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+    padding: 24px;
+margin-bottom: 24px;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+.containerer {
+    border: 2px solid lightgray;
+    padding: 24px 24px 0 24px ;
+    margin-bottom: 24px;
+}
+
+.row {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.title {
+    border: 4px solid lightgray;
+    width: 100%;
+    height: 24px;
+    margin-bottom: 24px;
+}
+
+.big-box {
+    border: 4px solid lightgray;
+    width: 30%;
+    height: 100px;
+    margin-bottom: 24px;
+}
+
+.box-wrapperer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+.third-container {
+    border: 2px solid lightgray;
+    padding: 24px 24px 0 24px ;
+   display: flex;
+   justify-content: space-between;
+}
+
+.third-boxes {
+    border: 4px solid lightgray;
+    margin-bottom: 24px;
+}
+
+.box-three {
+    height: 50px;
+}
+
+.third-box-wrapper {
+    width: 45%;
+}
+
+.box-large {
+    width: 45%;
+} 
+
+
+* {
+    box-sizing: border-box;
+}
+
+.fourth-container {
+    border: 2px solid lightgray;
+    padding: 80px 24px 80px 24px ;
+}
+
+.row-row {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto -24px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.fourth-boxes {
+    border: 4px solid lightgray;
+    margin-bottom: 24px;
+}
+
+.box-tiny {
+    width: 30%;
+    height: 50px;
+}
+
+.tiny-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.box-four{
+    height: 50px;
+}
+
+.fourth-box-wrapper {
+    width: 45%;
+}
+
+.box-larger {
+    width: 45%;
+} 
